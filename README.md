@@ -89,7 +89,7 @@ export const isEqual = <T extends object, U extends object>(
 };
 ```
 
-### Convert types
+### 4. Replace object types
 
 ```
 type ReplaceDecimalTypes<Type extends object, NewKeyType> = {
