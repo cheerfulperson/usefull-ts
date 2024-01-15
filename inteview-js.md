@@ -6,8 +6,8 @@
 
 - #### Advanced Expressions
 
-  - `Object.is` `(optional)`
-  - let var const - differences
+  - `Object.is` `(optional)` [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is)
+  - let var const - differences [link](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
   - Temporal dead zone
   - Hoisting
   - what is polyfills?
