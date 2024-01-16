@@ -4,12 +4,17 @@
  - Multithreading on Node.js. Event Loop [link](https://habr.com/ru/articles/479062/)
  - Node.js event loop, timers and process.nextTick() [link](https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0) | [en](https://nodejs.org/en/guides/event-loop-timers-and-nexttick)
  - Know your tool: Event Loop in libuv [link](https://habr.com/ru/articles/336498/)
+ - Node.js: promise, async/await and process.nextTick [link](https://dev-gang.ru/article/nodejs-vizualizacija-promise-asyncawait-and-processnexttick-qb8eepuukb/)
 
 ## Browser
 
  - What is Device Pixel Ratio? [link](https://habr.com/ru/sandbox/128978/)
 
 ## JavaScript:
+
+- #### Core:
+
+  - JavaScript Internals Basics [link](https://habr.com/ru/companies/alfa/articles/651005/)
 
 - #### Advanced Expressions
 
