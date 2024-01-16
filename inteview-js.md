@@ -1,8 +1,15 @@
-# CoreJS Interview 1
 
-## Question examples:
+## Node.js
 
-### JavaScript:
+ - Multithreading on Node.js. Event Loop [link](https://habr.com/ru/articles/479062/)
+ - Node.js event loop, timers and process.nextTick() [link](https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0) | [en](https://nodejs.org/en/guides/event-loop-timers-and-nexttick)
+ - Know your tool: Event Loop in libuv [link](https://habr.com/ru/articles/336498/)
+
+## Browser
+
+ - What is Device Pixel Ratio? [link](https://habr.com/ru/sandbox/128978/)
+
+## JavaScript:
 
 - #### Advanced Expressions
 
