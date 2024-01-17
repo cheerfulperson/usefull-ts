@@ -21,6 +21,10 @@
 
   - JavaScript Internals Basics [link](https://habr.com/ru/companies/alfa/articles/651005/)
 
+- #### Observers:
+
+  - Watch an object for changes in Vanilla JavaScript [link](https://medium.com/@suvechhyabanerjee92/watch-an-object-for-changes-in-vanilla-javascript-a5f1322a4ca5)
+
 - #### Advanced Expressions
 
   - `Object.is` `(optional)` [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is)
@@ -98,24 +102,6 @@
 - #### Intermediate knowledge of patterns and best practices:
 
   - KISS, DRY, YAGNI
-
-# CoreJS Interview #2
-
-- Passing the Corejs Interview #2 is mandatory for obtaining the RS School certificate.
-- The students are not allowed to be interviewed by their current mentors.
-- The students without a mentor can also register for an interview.
-- Students should contact the interviewer themselves. Contact details will be available on the RS APP. **Note:** Students should consider that the mentor can be busy (vacation, business trip, workload, etc.), so please get in touch with him as soon as possible.
-- At the mentor's request, the interview can take place online or face-to-face.
-- Preferable interview duration is 45-90 minutes.
-- During the interview mentor:
-  - asks questions;
-  - gets answers;
-  - adds/corrects/explains/gives the right answer, if necessary.
-- After the interview mentor have to fill in the feedback form (RS APP > Interviews)
-
-## Question examples:
-
-### JavaScript:
 
 - #### Objects Built-in methods.
 
