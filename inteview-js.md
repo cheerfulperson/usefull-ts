@@ -13,6 +13,9 @@
  - What is `module`? [link](https://nodejs.org/api/modules.html#modules_the_module_object)
  - Difference between module.exports and exports in Node.js [link](https://www.geeksforgeeks.org/difference-between-module-exports-and-exports-in-node-js/)
  - Node Event Emitters [link](https://medium.com/developers-arena/nodejs-event-emitters-for-beginners-and-for-experts-591e3368fdd2)
+ - What is a `Cluster` module? [link](https://nodejsdev.ru/api/cluster/#clustersetupprimarysettings)
+ - Implementing Node.js Cluster for Improved Performance [link](https://medium.com/@mjdrehman/implementing-node-js-cluster-for-improved-performance-f800146e58e1)
+ - Clustering [link](https://nodejsdev.ru/guides/webdraftt/cluster/) | [link](https://habr.com/ru/articles/713420/)
 
 ## Browser
 
