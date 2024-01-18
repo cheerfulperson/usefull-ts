@@ -10,6 +10,9 @@
  - Node.js event loop, timers and process.nextTick() [link](https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0) | [en](https://nodejs.org/en/guides/event-loop-timers-and-nexttick)
  - Know your tool: Event Loop in libuv [link](https://habr.com/ru/articles/336498/)
  - Node.js: promise, async/await and process.nextTick [link](https://dev-gang.ru/article/nodejs-vizualizacija-promise-asyncawait-and-processnexttick-qb8eepuukb/)
+ - What is `module`? [link](https://nodejs.org/api/modules.html#modules_the_module_object)
+ - Difference between module.exports and exports in Node.js [link](https://www.geeksforgeeks.org/difference-between-module-exports-and-exports-in-node-js/)
+ - Node Event Emitters [link](https://medium.com/developers-arena/nodejs-event-emitters-for-beginners-and-for-experts-591e3368fdd2)
 
 ## Browser
 
