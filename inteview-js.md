@@ -16,6 +16,8 @@
  - What is a `Cluster` module? [link](https://nodejsdev.ru/api/cluster/#clustersetupprimarysettings)
  - Implementing Node.js Cluster for Improved Performance [link](https://medium.com/@mjdrehman/implementing-node-js-cluster-for-improved-performance-f800146e58e1)
  - Clustering [link](https://nodejsdev.ru/guides/webdraftt/cluster/) | [link](https://habr.com/ru/articles/713420/)
+ - Node.js REPL [ru](https://nodejsdev.ru/api/repl/) | [en](https://nodejs.org/api/repl.html#repl)
+ - Advantages of single threaded web server over multi-threaded web server? [link_ru](https://habr.com/ru/companies/timeweb/articles/592017/)
 
 ## Browser
 
