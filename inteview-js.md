@@ -22,6 +22,7 @@
 ## Browser
 
  - What is Device Pixel Ratio? [link](https://habr.com/ru/sandbox/128978/)
+ - How browser work? [ru](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
 
 ## JavaScript:
 
